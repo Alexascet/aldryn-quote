@@ -1,14 +1,14 @@
 {
-    "name": "Quote",
+    "name": "Ascet Quote",
     "description": "Easy to use quote plugin for Aldryn and django CMS.",
     "version": "1.0.5",
-    "url": "https://github.com/philipp-x/aldryn-quote",
+    "url": "https://github.com/Alexascet/aldryn-quote",
     "package-name": "aldryn-quote",
     "installed-apps": [
         "aldryn_quote"
     ],
     "author": {
-        "name": "Philipp Havrilla",
+        "name": "Moded from Philipp Havrilla",
         "url": "https://github.com/philipp-x"
     },
     "license": {
